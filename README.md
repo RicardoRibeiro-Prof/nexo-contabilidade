@@ -28,6 +28,8 @@ Os arquivos finais são gerados em `dist/`.
 
 O workflow `.github/workflows/deploy-pages.yml` publica a pasta `dist` no GitHub Pages a cada push na branch `main`.
 
+O GitHub Pages foi configurado para usar **GitHub Actions**. Este commit dispara a primeira publicação oficial do projeto.
+
 URL esperada:
 
 `https://ricardoribeiro-prof.github.io/nexo-contabilidade/`
